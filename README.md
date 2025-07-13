@@ -31,7 +31,7 @@ Letakkan data Anda dalam folder: `data_folder/Data Clean/`
 
 ## Tampilan Dashboard
 
-![Dashboard Preview](images/dashboard-preview.png)
+![Dashboard Preview](images/![Uploading Screenshot 2025-07-13 135438.png…]())
 
 ## 🛠Instalasi dan Jalankan Aplikasi
 
